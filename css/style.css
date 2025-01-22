@@ -2,3 +2,28 @@ h1{
   border-color: #d3e644;
   border-style: dashed;
 }
+
+img{
+  width: 40vw;
+  border: .5vw solid green; 
+}
+
+ul {
+  list-style-type: upper-roman;
+  border: double purple;
+}
+
+#picture {
+  display: block;
+  text-align: center;
+}
+
+a {
+  color: turquoise;
+  text-decoration: none;
+  font-family:'Courier New', Courier, monospace;
+}
+
+a:hover {
+  color: green;
+}
